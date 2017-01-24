@@ -1,6 +1,6 @@
 # Site Settings
 title: 'Kirby James'
-description: ''
+# description:
 url: 'http://127.0.0.1:4000' # the base hostname & protocol for your site
 footer_text: 'Kirby James'
 twitter_user: FernandezKboy
