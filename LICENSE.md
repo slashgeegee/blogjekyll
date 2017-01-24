@@ -1,7 +1,4 @@
-My Daily Learning Blog:
+On Development:
 
 Powered by: jekyll,sass,minify.js
 Icons:PixelBuddha
-
-
-On Development
